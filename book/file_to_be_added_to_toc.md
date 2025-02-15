@@ -8,7 +8,13 @@ text
 ```{code-block} python
 :caption: hello_world.py
 :lineno-start: 1
+:emphasize-lines: 2, 4-5
 
+print('Hello, World!')
+print('Hello, World!')
+print('Hello, World!')
+print('Hello, World!')
+print('Hello, World!')
 print('Hello, World!')
 ```
 
